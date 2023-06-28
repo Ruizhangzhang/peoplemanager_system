@@ -1,0 +1,3 @@
+# peoplemanager_system
+一个人事管理系统
+利用ssm框架构建的一个人事管理系统
